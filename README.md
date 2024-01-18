@@ -36,7 +36,8 @@ O curso é 100% online e totalmente gratuito, feito para quem não teve acesso �
 
 
 ### Fase 1: Inscrição
-O primeiro passo para quem tem interesse em concorrer a uma bolsa no ONE é se inscrever pelo site do programa.
+O primeiro passo para quem tem interesse em concorrer a uma bolsa no ONE é se inscrever pelo site do programa, <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">Link do site</a>.
+
 
 ### Fase 2: Seleção
 Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois meses para conhecerem a metodologia do programa e finalizarem as primeiras formações em Lógica de Programação e Desenvolvimento Pessoal.
