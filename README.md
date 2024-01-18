@@ -41,6 +41,19 @@ O primeiro passo para quem tem interesse em concorrer a uma bolsa no ONE é se i
 ### Fase 2: Seleção
 Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois meses para conhecerem a metodologia do programa e finalizarem as primeiras formações em Lógica de Programação e Desenvolvimento Pessoal.
 
+```
+.
+├── 01_desenvolvimento_pessoal_t6_one
+│   └── certificados
+│       ├── Oséias Dias de Farias - Curso Aprender a aprender_ técnicas para seu autodesenvolvimento - Alura.pdf
+│       ├── Oséias Dias de Farias - Curso Foco_ trazendo mais resultados para o dia a dia - Alura.pdf
+│       └── Oséias Dias de Farias - Curso LinkedIn_ como fazer o seu perfil trabalhar para você - Alura.pdf
+└── 02_iniciante_em_programacao_t6_one
+    └── c01_logic_de_programacao_mergulhe_em_programacao_com_javascript
+        ├── certificados
+        └── logica-js-projeto_inicial
+```
+
 ### Fase 3: Trilhas Obrigatórias
 Após a etapa anterior, os candidatos se tornam alunos do ONE e podem escolher entre as formações em Front-End ou Back-End para realizarem junto às de Soft Skills.
 
