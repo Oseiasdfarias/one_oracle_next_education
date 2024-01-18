@@ -45,9 +45,9 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
 .
 ├── 01_desenvolvimento_pessoal_t6_one
 │   └── certificados
-│       ├── Oséias Dias de Farias - Curso Aprender a aprender_ técnicas para seu autodesenvolvimento - Alura.pdf
-│       ├── Oséias Dias de Farias - Curso Foco_ trazendo mais resultados para o dia a dia - Alura.pdf
-│       └── Oséias Dias de Farias - Curso LinkedIn_ como fazer o seu perfil trabalhar para você - Alura.pdf
+│       ├── Curso_Aprender_a_aprender_tecnicas_para_seu_autodesenvolvimento_Alura.pdf
+│       ├── Curso_Foco_trazendo_mais_resultados_para_o_dia_a_dia_Alura.pdf
+│       └── Curso_LinkedIn_como_fazer_o_seu_perfil_trabalhar_para_voce_Alura.pdf
 └── 02_iniciante_em_programacao_t6_one
     └── c01_logic_de_programacao_mergulhe_em_programacao_com_javascript
         ├── certificados
