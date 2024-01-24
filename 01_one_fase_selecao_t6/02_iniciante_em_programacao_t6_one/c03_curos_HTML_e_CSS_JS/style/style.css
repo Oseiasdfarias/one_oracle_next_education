@@ -24,7 +24,7 @@ body {
 }
 
 .cabecalho {
-    padding: 5% 0 0 15%;
+    padding: 2% 0 0 15%;
 }
 
 .cabecalho__menu {
@@ -41,7 +41,7 @@ body {
 }
 
 .apresentacao {
-    padding: 5% 15%;
+    padding: 3% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -49,14 +49,14 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     gap: 40px;
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 2.25rem;
+    font-size: 2rem;
     font-family: var(--fonte--primaria);
 }
 
@@ -92,7 +92,7 @@ body {
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 600;
-    padding: 21.5px 0px;
+    padding: 10px 0px;
     text-decoration: none;
     color: var(--cor--secundaria);
     font-family: var(--fonte--secundaria);
@@ -103,10 +103,11 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: 30%;
+    border-radius: 5%;
 }
 
-.rodape {
+.rodape  {
     padding: 24px;
     color: var(--cor--primaria);
     background-color: var(--cor--terciaria);
@@ -114,7 +115,6 @@ body {
     font-family: var(--fonte--secundaria);
     font-size: 1.5rem;
     font-weight: 400;
-
 }
 
 /* Seção CV */
@@ -127,19 +127,19 @@ body {
     justify-content: space-between;
 }
 
-
 .apresentacao__conteudo__texto {
     padding: 0.5% 0;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte--secundaria);
 }
+
 .apresentacao__conteudo__texto a{
     text-decoration: none;
     color: var(--cor--terciaria);
 }
 
 .apresentacao__cv__conteudo__titulo {
-    font-size: 2.25rem;
+    font-size: 2rem;
     padding: 1% 0;
     font-family: var(--fonte--primaria);
 }
@@ -155,7 +155,6 @@ body {
     font-size: 1.5rem;
     font-family: var(--fonte--secundaria);
 }
-
 
 @media (max-width: 1200px) {
     .cabecalho {
@@ -174,5 +173,11 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+    .apresentacao__cv {
+        padding: 5% 8%;
+    }
 
+    .apresentacao__imagem {
+        width: 65%;
+    }
 }
