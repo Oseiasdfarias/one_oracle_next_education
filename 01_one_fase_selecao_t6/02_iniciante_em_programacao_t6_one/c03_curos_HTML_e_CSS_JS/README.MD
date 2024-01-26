@@ -10,4 +10,6 @@ Esse projeto foi desenvolvido na formação, Iniciante em Programação T6 - ONE
 
 [Portifólio: ](https://portifolio-curso-alura-omega.vercel.app)
 
+![demostração portifólio](demo.png)
+
 
