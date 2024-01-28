@@ -64,6 +64,11 @@ body {
     font-family: var(--fonte--primaria);
 }
 
+.apresentacao__conteudo__subtitulo {
+    font-size: 1.2rem;
+    font-family: var(--fonte--primaria);
+}
+
 .titulo-destaque {
     color:var(--cor--terciaria);
 }
