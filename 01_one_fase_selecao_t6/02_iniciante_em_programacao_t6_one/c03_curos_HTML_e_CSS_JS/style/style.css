@@ -34,10 +34,14 @@ body {
 
 .cabecalho__menu__link {
     font-family: var(--fonte--secundaria);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 600;
     color: var(--cor--terciaria);
     text-decoration: none;
+}
+
+.cabecalho__menu__link:hover {
+    transform: scale(1.09);
 }
 
 .apresentacao {
@@ -65,7 +69,7 @@ body {
 }
 
 .apresentacao__conteudo__paragrafo {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-family: var(--fonte--secundaria);
 }
 
@@ -90,21 +94,24 @@ body {
     width: 50%;
     text-align: center;
     border-radius: 8px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 600;
     padding: 10px 0px;
     text-decoration: none;
     color: var(--cor--secundaria);
     font-family: var(--fonte--secundaria);
+    box-shadow: 0 0 10px #8e7a7a52;
 }
 
 .apresentacao__links_link:hover {
     background-color: var(--cor--hover);
+    transform: scale(1.05);
 }
 
 .apresentacao__imagem {
     width: 30%;
     border-radius: 5%;
+    box-shadow: 0 0 20px #917b7bde;
 }
 
 .rodape  {
@@ -113,7 +120,7 @@ body {
     background-color: var(--cor--terciaria);
     text-align: center;
     font-family: var(--fonte--secundaria);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 400;
 }
 
@@ -129,7 +136,7 @@ body {
 
 .apresentacao__conteudo__texto {
     padding: 0.5% 0;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-family: var(--fonte--secundaria);
 }
 
@@ -139,20 +146,20 @@ body {
 }
 
 .apresentacao__cv__conteudo__titulo {
-    font-size: 2rem;
+    font-size: 1.7rem;
     padding: 1% 0;
     font-family: var(--fonte--primaria);
 }
 
 .apresentacao__cv__conteudo__subtitulo {
-    font-size: 2rem;
+    font-size: 1.7rem;
     padding: 1% 0;
     font-family: var(--fonte--primaria);
 }
 
 .apresentacao__cv__conteudo__paragrafo {
     padding: 0.5% 0;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-family: var(--fonte--secundaria);
 }
 
@@ -179,5 +186,7 @@ body {
 
     .apresentacao__imagem {
         width: 65%;
+        transition: all 0.5s ease-in-out;
+        cursor: pointer;
     }
 }

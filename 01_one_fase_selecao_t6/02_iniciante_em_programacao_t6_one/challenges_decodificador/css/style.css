@@ -9,6 +9,7 @@
     --cor--texto_1: #343a40c2;
     --cor--hover: #5C3D2E;
     --cor--rodape: #757FB2;
+    --cor--azul: #0A3871;
 
     --fonte--primaria: 'Krona One', sans-serif;
     --fonte--secundaria: 'Montserrat', sans-serif;
@@ -17,15 +18,20 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
 }
 
 body {
-    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
     background-color: var(--cor--primaria);
+    height: 100vh;
 }
 
 .estrutura__principal {
-    padding: 6% 20%;
+    padding: 6% 15%;
     display: flex;
     justify-content: space-between;
     gap: 50px;
@@ -56,6 +62,7 @@ body {
     border: none;
     background-color: var(--cor--primaria);
     font-family: var(--fonte--primaria);
+    font-weight: 400;
     -webkit-text-fill-color: var(--cor--texto_1);
 }
 
@@ -74,6 +81,24 @@ body {
     gap: 5px;
 }
 
+.alerta {
+    display: flex;
+    place-items: center;
+    margin-top: auto;
+    gap: 5px;
+}
+
+.alerta__img {
+    width: 12px;
+}
+
+.alerta__paragrafo {
+    font-family: var(--fonte--primaria);
+    font-size: 0.5rem;
+    font-weight: 400;
+    -webkit-text-fill-color: #4950579f;
+}
+
 .estrutura__secundaria__1__div__btn {
     width: 100%;
     display: flex;
@@ -84,8 +109,18 @@ body {
 .estrutura__secundaria__1__btn {
     width: 50%;
     height: 40px;
+    font-size: 0.65rem;
+    font-weight: 400;
     font-family: var(--fonte--primaria);
-    -webkit-text-fill-color: var(--cor--texto);
+    border: none;
+    border-radius: 10px;
+    background-color: var(--cor--azul);
+    color: #FFFFFF;
+}
+
+.estrutura__secundaria__1__btn:hover {
+    background-color: #062142;
+    -webkit-text-fill-color: #dbdbdb;
 }
 
 .estrutura__secundaria__2 {
@@ -136,10 +171,37 @@ body {
     -webkit-text-fill-color: var(--cor--texto);
 }
 
-.estrutura__secundaria__div__2__paragrafo__alerta {
+.estrutura__secundaria__div__2__div_oculta {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 300px;
+}
+
+.btn_oculto {
+    display: flex;
+    justify-content: center;
+}
+
+.estrutura__secundaria__div__2__div_oculta__btn {
+    width: 80%;
+    height: 40px;
+    font-size: 0.65rem;
+    font-weight: 400;
+    font-family: var(--fonte--primaria);
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    color: var(--cor--azul);
+}
+
+.estrutura__secundaria__div__2__mostrar {
+    text-align: left;
+    padding: 0 20px;
     margin-top: 10px;
     font-family: var(--fonte--primaria);
     font-size: 0.6rem;
+    font-weight: 400;
     -webkit-text-fill-color: var(--cor--texto);
 }
 
