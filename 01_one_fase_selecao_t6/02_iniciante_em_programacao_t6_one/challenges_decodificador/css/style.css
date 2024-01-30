@@ -125,7 +125,7 @@ body {
 
 .estrutura__secundaria__2 {
     width: 30%;
-    height: 30rem;
+    height: 31rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -135,6 +135,7 @@ body {
 .estrutura__secundaria__2__div {
     display: flex;
     height: 100%;
+    position: relative;
     flex-direction: column;
     justify-content: center;
     background-color: white;
@@ -145,6 +146,7 @@ body {
 
 .imagem_ilustracao {
     width: 100%;
+    transition: all 0.5s linear;
 }
 
 .img_logo {
@@ -175,12 +177,14 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 300px;
+    height: 100%;
+    /* gap: 379px; */
 }
 
 .btn_oculto {
     display: flex;
     justify-content: center;
+    padding-bottom: 26px;
 }
 
 .estrutura__secundaria__div__2__div_oculta__btn {
@@ -197,7 +201,7 @@ body {
 
 .estrutura__secundaria__div__2__mostrar {
     text-align: left;
-    padding: 0 20px;
+    padding: 20px 20px;
     margin-top: 10px;
     font-family: var(--fonte--primaria);
     font-size: 0.6rem;
@@ -208,7 +212,7 @@ body {
 .rodape {
     text-align: center;
     background-color:var(--cor--rodape);
-    padding: 0.5rem;
+    padding: 0.4rem;
     font-size: 1rem;
     font-weight: 400;
     font-family: var(--fonte--secundaria);

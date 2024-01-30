@@ -12,7 +12,7 @@
         <section class="estrutura__secundaria__1">
             <section  class="estrutura__secundaria__1__sub" >
             <img class="img_logo" src="img/Logo.svg" alt="">
-            <textarea placeholder="Digite seu texto" class="estrutura__secundaria__1__textarea"></textarea>
+            <textarea placeholder="Digite seu texto" class="estrutura__secundaria__1__textarea" id="textarea_conteudo"></textarea>
             
             <div class="estrutura__secundaria__1__div__pb">
                 <div class="alerta">
@@ -20,8 +20,8 @@
                     <p class="alerta__paragrafo"> Apenas letras minúsculas e sem acento.</p>
                 </div>
                 <div class="estrutura__secundaria__1__div__btn">
-                    <button class="estrutura__secundaria__1__btn">Criptografar</button>
-                    <button class="estrutura__secundaria__1__btn">Descriptografar</button>
+                    <button class="estrutura__secundaria__1__btn" onclick="criotografarTexto()">Criptografar</button>
+                    <button class="estrutura__secundaria__1__btn" onclick="descriotografarTexto()">Descriptografar</button>
                 </div>
             </div>
         </section>
@@ -32,9 +32,9 @@
                 <h2 class="estrutura__secundaria__2__h2" hidden>Nenhuma mensagem encontrada</h2>
                 <p class="estrutura__secundaria__div__2__paragrafo" hidden>Digite um texto que você deseja criptografar ou descriptografar.</p>
                 <div class="estrutura__secundaria__div__2__div_oculta">
-                    <p class="estrutura__secundaria__div__2__mostrar">Teste Display info.</p>
+                    <p class="estrutura__secundaria__div__2__mostrar" id="mostrar">Teste Display info.</p>
                     <div class="btn_oculto">
-                        <button class="estrutura__secundaria__div__2__div_oculta__btn">Copiar</button>
+                        <button class="estrutura__secundaria__div__2__div_oculta__btn" onclick="copiarTexto()">Copiar</button>
                     </div>
                 </div>
             </div>
