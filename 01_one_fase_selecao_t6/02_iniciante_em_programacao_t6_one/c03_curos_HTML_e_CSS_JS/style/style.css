@@ -168,10 +168,10 @@ body {
     font-family: var(--fonte--secundaria);
 }
 
+
 @media (max-width: 1200px) {
     .cabecalho {
         padding: 5%;
-
     }
     .cabecalho__menu {
         justify-content: center;

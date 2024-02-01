@@ -11,8 +11,11 @@
     <main class="estrutura__principal">
         <section class="estrutura__secundaria__1">
             <section  class="estrutura__secundaria__1__sub" >
-            <img class="img_logo" src="img/Logo.svg" alt="">
-            <textarea placeholder="Digite seu texto" class="estrutura__secundaria__1__textarea" id="textarea_conteudo"></textarea>
+            <section class="div_logo_textarea">
+                <img class="img_logo" src="img/Logo.svg" alt="">
+                <textarea placeholder="Digite seu texto" class="estrutura__secundaria__1__textarea" id="textarea_conteudo"></textarea>
+            </section>
+
             <div class="estrutura__secundaria__1__div__pb">
                 <div class="alerta">
                     <img class="alerta__img" src="img/bi_exclamation-circle-fill.svg"  alt="">
@@ -20,7 +23,7 @@
                 </div>
                 <div class="estrutura__secundaria__1__div__btn">
                     <button class="estrutura__secundaria__1__btn" onclick="criotografarTexto()">Criptografar</button>
-                    <button class="estrutura__secundaria__1__btn" onclick="descriotografarTexto()">Descriptografar</button>
+                    <button class="estrutura__secundaria__1__btn__dec" onclick="descriotografarTexto()">Descriptografar</button>
                 </div>
             </div>
         </section>
@@ -41,7 +44,6 @@
             </div>
         </section>
     </main>
-    <footer class="rodape">Powered by <a href="https://www.linkedin.com/in/oseiasfarias/">Oséias Farias</a>, 2024 </footer>
     <script src="js/backend.js"></script>
 </body>
-</html>
+</html> 
