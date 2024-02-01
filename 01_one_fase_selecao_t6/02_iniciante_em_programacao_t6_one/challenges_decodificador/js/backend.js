@@ -3,9 +3,12 @@ var conteudo = "";               // Referência do textarea
 var conteudoTextarea;            // Variável para salvar o conteudo do textarea
 
 function criotografarTexto() {
+    alterarElemento();
     conteudo = document.getElementById("textarea_conteudo");
     conteudoTextarea = conteudo.value;
     console.log(conteudoTextarea);
+
+    deletarElementoInicial();
 
     // validando texto
     if (validadorTexto(conteudoTextarea)) {
@@ -17,6 +20,14 @@ function criotografarTexto() {
     }
 }
 
+function deletarElementoInicial () {
+    const element = document.getElementById("img_ilustracao");
+    if (element != null){
+        element.remove();
+    }
+}
+
+
 function descriotografarTexto () {
     conteudo = document.getElementById("textarea_conteudo");
     conteudoTextarea = conteudo.value;
@@ -26,11 +37,18 @@ function descriotografarTexto () {
     console.log(conteudoTextarea);
 }
 
+// Verificar se tem texto no elemento de exibir informações
+function alterarElemento () {
+    document.getElementById("ocultar__elementos").style.display = "flex";
+}
+
+
 function copiarTexto () {
     navigator.clipboard.writeText(mostrarDados.innerHTML).then(() => {
         alert("Copiado para área de transferência!");
     })
 }
+
 
 // %%%%%%%%%%%%%%%  Validador de texto  %%%%%%%%%%%%%%%
 
