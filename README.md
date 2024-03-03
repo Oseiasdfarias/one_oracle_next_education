@@ -83,6 +83,8 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
   </ul>
   <br>
 
+---
+
   <ul>
     <h3>Iniciante em Programação T6 - ONE</h3>
     <p>O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.</p>
@@ -93,6 +95,12 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
     <li>🎬 <a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas">Lógica de programação: explore funções e listas</a></li>
     <li>📜 <a href="https://www.alura.com.br/artigos/visualstudio-code-instalacao-teclas-de-atalho-plugins-e-integracoes">VisualStudio Code: instalação, teclas de atalho, plugins e integrações</a></li>
   </ul>
+  <ul>
+    <em>Crie suas primeiras páginas web</em>
+    <br>
+    <li>📜 <a href=" "> ... </a></li>
+  </ul>
+
   <br>
 </p>
 
