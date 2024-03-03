@@ -67,10 +67,22 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
     <br>
     <li>👨‍💻 <a href="https://cursos.alura.com.br/course/foco-o-poder-do-habito-seu-dia-a-dia">Foco: trazendo mais resultados para o dia a dia </a></li>
     <li>📜 <a href="https://www.alura.com.br/artigos/tecnica-pomodoro">Técnica Pomodoro: gerencie seu tempo com simplicidade | Alura Curso </a></li>
-    <li>📜 <a href="https://youtu.be/7FhnS4SLc4k?si=yntveLCRS8lmmZym">Controle seu foco, aumente sua produtividade - YouTube </a></li>
-    <li>📜 <a href="https://www.youtube.com/watch?v=V0FuAukFSzc&t=6s">Como é o trabalho remoto? #HipstersPontoTube - YouTube </a></li>
+    <li>🎬 <a href="https://youtu.be/7FhnS4SLc4k?si=yntveLCRS8lmmZym">Controle seu foco, aumente sua produtividade - YouTube </a></li>
+    <li>🎬 <a href="https://www.youtube.com/watch?v=V0FuAukFSzc&t=6s">Como é o trabalho remoto? #HipstersPontoTube - YouTube </a></li>
     <li>📜 <a href="https://www.alura.com.br/artigos/planejando-meus-estudos">Planejando meus estudos | Alura Cursos Online </a></li>
   </ul>
+  <br>
+
+  <ul>
+    <em>Comece pelos seus hábitos</em>
+    <br>
+    <li>📜 <a href="https://www.alura.com.br/artigos/estudar-todos-os-dias-e-o-que-mais-as-dicas-do-aluno-alura-eduardo-branquinho">Estudar todos os dias, e o que mais? As dicas do Aluno Alura Eduardo </a></li>
+    <li> <a href="https://cursos.alura.com.br/course/habitos">Hábitos: da produtividade às metas pessoais </a></li>
+    <li>🎬 <a href="https://www.youtube.com/watch?v=yfcgz3Ivs6g">Alura Live #51 - Hábitos: como ser mais produtivo? - YouTube </a></li>
+    <li>📜 <a href="https://www.alura.com.br/artigos/habitos-como-melhora-los">Hábitos: Como melhorá-los | Alura Cursos Online </a></li>
+    <li>🎬 <a href="https://www.youtube.com/watch?v=a84Hd9c1_sw">Hábitos de estudos - Alura Live #48 - YouTube </a></li>
+  </ul>
+  <br>
 </p>
 
 ### Fase 3: Trilhas Obrigatórias
