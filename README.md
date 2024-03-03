@@ -42,7 +42,6 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
 
 <h3>Roadmap</h3>
 
-
 <p id="roadmap"> 
   <ul>
     <h3>Desenvolvimento Pessoal T6 - ONE</h3>
@@ -83,7 +82,22 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
     <li>🎬 <a href="https://www.youtube.com/watch?v=a84Hd9c1_sw">Hábitos de estudos - Alura Live #48 - YouTube </a></li>
   </ul>
   <br>
+
+  <ul>
+    <h3>Iniciante em Programação T6 - ONE</h3>
+    <p>O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript.</p>
+    <em>Aprenda lógica de programação</em>
+    <br>
+    <li>📜 <a href="https://www.alura.com.br/artigos/5-duvidas-de-quem-quer-iniciar-na-carreira-de-programacao">5 dúvidas de quem quer iniciar na carreira de programação</a></li>
+    <li>🎬 <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript">Lógica de programação: mergulhe em programação com JavaScript</a></li>
+    <li>🎬 <a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas">Lógica de programação: explore funções e listas</a></li>
+    <li>📜 <a href="https://www.alura.com.br/artigos/visualstudio-code-instalacao-teclas-de-atalho-plugins-e-integracoes">VisualStudio Code: instalação, teclas de atalho, plugins e integrações</a></li>
+  </ul>
+  <br>
 </p>
+
+
+
 
 ### Fase 3: Trilhas Obrigatórias
 Após a etapa anterior, os candidatos se tornam alunos do ONE e podem escolher entre as formações em Front-End ou Back-End para realizarem junto às de Soft Skills.
