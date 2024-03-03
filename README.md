@@ -12,8 +12,6 @@
     <a href="#roadmap">Roadmap</a>
   • <a href="#techs">Tecnologias</a> 
   • <a href="#challenge">Desafios</a>
-    <h3 align="center">Arquivo com exercícios feito no programa Oracle Next Education
-    </h3>
 </p>
 
 
@@ -52,11 +50,28 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
     <em>Aprender a aprender</em>
     <br>
     <li>📜 <a href="https://www.alura.com.br/artigos/04-dicas-do-gui-silveira-para-aprender-a-aprender">04 pontos essenciais que o Gui Silveira já nos ensinou para aprender</a></li>
-    <li>📜 <a href="https://cursos.alura.com.br/course/aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento">Aprender a aprender: técnicas para seu autodesenvolvimento</a></li>
+    <li>👨‍💻 <a href="https://cursos.alura.com.br/course/aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento">Aprender a aprender: técnicas para seu autodesenvolvimento</a></li>
     <li>📜 <a href="https://www.alura.com.br/artigos/planejando-meus-estudos">Planejando meus estudos</a></li>
   </ul>
   <br>
+  
+  <ul>
+    <em>Turbine seu LinkedIn</em>
+    <br>
+    <li>👨‍💻 <a href="https://cursos.alura.com.br/course/linkedin-perfil-trabalhar-voce">LinkedIn: como fazer o seu perfil trabalhar para você</a></li>
+  </ul>
+  <br>
 
+  <ul>
+    <em>Foco no dia a dia</em>
+    <br>
+    <li>👨‍💻 <a href="https://cursos.alura.com.br/course/foco-o-poder-do-habito-seu-dia-a-dia">Foco: trazendo mais resultados para o dia a dia </a></li>
+    <li>📜 <a href="https://www.alura.com.br/artigos/tecnica-pomodoro">Técnica Pomodoro: gerencie seu tempo com simplicidade | Alura Curso </a></li>
+    <li>📜 <a href="https://youtu.be/7FhnS4SLc4k?si=yntveLCRS8lmmZym">Controle seu foco, aumente sua produtividade - YouTube </a></li>
+    <li>📜 <a href="https://www.youtube.com/watch?v=V0FuAukFSzc&t=6s">Como é o trabalho remoto? #HipstersPontoTube - YouTube </a></li>
+    <li>📜 <a href="https://www.alura.com.br/artigos/planejando-meus-estudos">Planejando meus estudos | Alura Cursos Online </a></li>
+  </ul>
+</p>
 
 ### Fase 3: Trilhas Obrigatórias
 Após a etapa anterior, os candidatos se tornam alunos do ONE e podem escolher entre as formações em Front-End ou Back-End para realizarem junto às de Soft Skills.
