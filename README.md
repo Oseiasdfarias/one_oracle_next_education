@@ -39,21 +39,25 @@ O curso é 100% online e totalmente gratuito, feito para quem não teve acesso �
 O primeiro passo para quem tem interesse em concorrer a uma bolsa no ONE é se inscrever pelo site do programa, <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">Link do site</a>.
 
 
-### Fase 2: Seleção
+## Fase 2: Seleção
 Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois meses para conhecerem a metodologia do programa e finalizarem as primeiras formações em Lógica de Programação e Desenvolvimento Pessoal.
 
-```
-.
-├── 01_desenvolvimento_pessoal_t6_one
-│   └── certificados
-│       ├── Curso_Aprender_a_aprender_tecnicas_para_seu_autodesenvolvimento_Alura.pdf
-│       ├── Curso_Foco_trazendo_mais_resultados_para_o_dia_a_dia_Alura.pdf
-│       └── Curso_LinkedIn_como_fazer_o_seu_perfil_trabalhar_para_voce_Alura.pdf
-└── 02_iniciante_em_programacao_t6_one
-    └── c01_logic_de_programacao_mergulhe_em_programacao_com_javascript
-        ├── certificados
-        └── logica-js-projeto_inicial
-```
+
+<h3>Roadmap</h3>
+
+
+<p id="roadmap"> 
+  <ul>
+    <h3>Desenvolvimento Pessoal T6 - ONE</h3>
+    <p>Aprenda como melhorar a sua produtividade e seu desenvolvimento pessoal</p>
+    <em>Aprender a aprender</em>
+    <br>
+    <li>📜 <a href="https://www.alura.com.br/artigos/04-dicas-do-gui-silveira-para-aprender-a-aprender">04 pontos essenciais que o Gui Silveira já nos ensinou para aprender</a></li>
+    <li>📜 <a href="https://cursos.alura.com.br/course/aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento">Aprender a aprender: técnicas para seu autodesenvolvimento</a></li>
+    <li>📜 <a href="https://www.alura.com.br/artigos/planejando-meus-estudos">Planejando meus estudos</a></li>
+  </ul>
+  <br>
+
 
 ### Fase 3: Trilhas Obrigatórias
 Após a etapa anterior, os candidatos se tornam alunos do ONE e podem escolher entre as formações em Front-End ou Back-End para realizarem junto às de Soft Skills.
