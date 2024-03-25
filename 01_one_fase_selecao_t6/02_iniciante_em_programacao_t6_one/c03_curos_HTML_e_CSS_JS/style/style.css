@@ -24,7 +24,7 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0 0 15%;
+    padding: 2% 0 0 10%;
 }
 
 .cabecalho__menu {
@@ -34,14 +34,14 @@ body {
 
 .cabecalho__menu__link {
     font-family: var(--fonte--secundaria);
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     font-weight: 600;
     color: var(--cor--terciaria);
     text-decoration: none;
 }
 
 .cabecalho__menu__link:hover {
-    transform: scale(1.09);
+    transform: scale(1.12);
 }
 
 .apresentacao {
@@ -56,11 +56,11 @@ body {
     width: 60%;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 20px;
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-family: var(--fonte--primaria);
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 .apresentacao__conteudo__paragrafo {
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     font-family: var(--fonte--secundaria);
 }
 
@@ -82,13 +82,14 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 32px;
+    gap: 20px;
     justify-content: space-between;
 }
 
 .apresentacao__links__subtitulo {
     font-family: var(--fonte--primaria);
     font-weight: 400;
+    font-size: 1.3rem;
 }
 
 .apresentacao__links_link {
@@ -120,13 +121,13 @@ body {
 }
 
 .rodape  {
-    padding: 24px;
+    padding: 15px;
     color: var(--cor--primaria);
     background-color: var(--cor--terciaria);
     text-align: center;
     font-family: var(--fonte--secundaria);
-    font-size: 1.2rem;
-    font-weight: 400;
+    font-size: 1.0rem;
+    font-weight: 600;
 }
 
 /* Seção CV */
@@ -137,11 +138,12 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
+    width: 60%;
 }
 
 .apresentacao__conteudo__texto {
     padding: 0.5% 0;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     font-family: var(--fonte--secundaria);
 }
 
@@ -164,10 +166,25 @@ body {
 
 .apresentacao__cv__conteudo__paragrafo {
     padding: 0.5% 0;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     font-family: var(--fonte--secundaria);
 }
 
+.custom_lista {
+    font-size: 1.0rem;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 80px;
+    padding-bottom: 20px;
+    font-family: var(--fonte--secundaria);
+}
+
+.color_lista {
+    color:burlywood;
+}
 
 @media (max-width: 1200px) {
     .cabecalho {
