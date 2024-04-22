@@ -1,5 +1,10 @@
 public class ContaBancaria {
     double saldoInicial = 2500.00;
+
+    public ContaBancaria(double saldoInicial ) {
+        this.saldoInicial = saldoInicial;
+    }
+
     public void dadosCliente() {
         String nomeCompleto = "Oséias Dias de Farias";
         String tipoConta = "Corrente";

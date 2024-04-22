@@ -1,9 +1,8 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        ContaBancaria contaOseias = new ContaBancaria();
+        ContaBancaria contaOseias = new ContaBancaria(2000);
         Scanner leitura = new Scanner(System.in);
 
         int acao = 0;
