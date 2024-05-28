@@ -33,5 +33,5 @@ Fiz esse curso de Java e:
 <br>
 
 <p align="center">
-  <img width="70%" src="./certificado_Java_trabalhando com_lambdas_streams_e_Spring Framework_page-0001.jpg">
+  <img width="70%" src="./certificado.jpg">
 </p>
