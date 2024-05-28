@@ -111,6 +111,62 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
 Após a etapa anterior, os candidatos se tornam alunos do ONE e podem escolher entre as formações em Front-End ou Back-End para realizarem junto às de Soft Skills.
 
 
+  <ul>
+    <h3>Java e Spring Framework T6 - ONE</h3>
+    <p>Crie modernas aplicações web Java com o Spring Boot. Aprenda a programar desde o acesso ao banco de dados, com Postgres, MySQL e JPA, até a criação de uma API REST, tudo com o framework mais popular do mundo Java..</p>
+    <em>Java Web e banco de dados</em>
+    <br>
+    <ul>
+    <em>Java: trabalhando com lambdas, streams e Spring Framework</em>
+    <br>
+    <li>👨‍💻 <a href="./02_one_fase_formacao_t6/Java_e_Spring_Framework_T6_ONE/screenmatch/">Projeto 1 >> Consumindo API - - ScreenMatch</a></li>
+    <li>👨‍💻 <a href="./02_one_fase_formacao_t6/Java_e_Spring_Framework_T6_ONE/TabelaFipe/">Projeto 2 >> Consumindo API - TabelaFipe</a></li>
+  </ul>
+  <ul>
+    <em>Java: persistência de dados e consultas com Spring Data JPA
+</em>
+    <br>
+    <li>👨‍💻 <a href=" "> ... </a></li>
+  </ul>
+  <br>
+  <ul>
+    <em>Java: criando sua primeira API e conectando ao front</em>
+    <br>
+    <li>👨‍💻 <a href=" "> ... </a></li>
+  </ul>
+  <br>
+  <em>Aceite o desafio construa seu Literalura</em>
+  <ul>
+    <em>Praticando Spring Boot: Challenge LiterAlura</em>
+    <br>
+    <li>👨‍💻 <a href=" "> ... </a></li>
+  </ul>
+  <br>
+  <em>API REST com Spring Boot 3</em>
+  <ul>
+    <em>Spring Boot 3: desenvolva uma API Rest em Java</em>
+    <br>
+    <li>👨‍💻 <a href=" "> ... </a></li>
+    <br>
+    <em>Spring Boot 3: aplique boas práticas e proteja uma API Rest</em>
+    <br>
+    <li>👨‍💻 <a href=" "> ... </a></li>
+    <br>
+    <em>Spring Boot 3: documente, teste e prepare uma API para o deploy</em>
+    <br>
+    <li>👨‍💻 <a href=" "> ... </a></li>
+  </ul>
+  <br>
+  <br>
+  <em>Aceite o desafio construa seu próprio Fórum</em>
+  <ul>
+    <em>Praticando Spring Framework: Challenge Fórum Hub</em>
+    <br>
+    <li>👨‍💻 <a href=" "> ... </a></li>
+  </ul>
+  <br>
+</p>
+
 ### Fase 4: AlumniONE
 E depois de formados, ainda podem fazer parte do AlumniONE, nossa comunidade de ex-alunos que oferece benefícios e mais de 200 horas de trilhas Oracle exclusivas.
 
