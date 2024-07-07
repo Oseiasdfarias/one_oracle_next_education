@@ -32,15 +32,23 @@ O ONE é um programa de educação e empregabilidade com objetivo social de capa
 O curso é 100% online e totalmente gratuito, feito para quem não teve acesso à educação de qualidade e deseja transformar a sua realidade social.
 
 
-### Fase 1: Inscrição
+## ONE | Fase 1: Inscrição
 O primeiro passo para quem tem interesse em concorrer a uma bolsa no ONE é se inscrever pelo site do programa, <a href="https://www.oracle.com/br/education/oracle-next-education/" target="_blank">Link do site</a>.
 
 
-## Fase 2: Seleção
+## ONE | Fase 2: Seleção
 Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois meses para conhecerem a metodologia do programa e finalizarem as primeiras formações em Lógica de Programação e Desenvolvimento Pessoal.
 
 
 <h3>Roadmap</h3>
+
+<ul>
+    <h4>Legenda:</h4>
+    <li>📜 -> Artigos</li>
+    <li>👨‍💻 -> Cursos</li>
+    <li>🎬 -> Vídeos </li>
+  </ul>
+
 
 <p id="roadmap"> 
   <ul>
@@ -76,7 +84,7 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
     <em>Comece pelos seus hábitos</em>
     <br>
     <li>📜 <a href="https://www.alura.com.br/artigos/estudar-todos-os-dias-e-o-que-mais-as-dicas-do-aluno-alura-eduardo-branquinho">Estudar todos os dias, e o que mais? As dicas do Aluno Alura Eduardo </a></li>
-    <li> <a href="https://cursos.alura.com.br/course/habitos">Hábitos: da produtividade às metas pessoais </a></li>
+    <li>👨‍💻 <a href="https://cursos.alura.com.br/course/habitos">Hábitos: da produtividade às metas pessoais </a></li>
     <li>🎬 <a href="https://www.youtube.com/watch?v=yfcgz3Ivs6g">Alura Live #51 - Hábitos: como ser mais produtivo? - YouTube </a></li>
     <li>📜 <a href="https://www.alura.com.br/artigos/habitos-como-melhora-los">Hábitos: Como melhorá-los | Alura Cursos Online </a></li>
     <li>🎬 <a href="https://www.youtube.com/watch?v=a84Hd9c1_sw">Hábitos de estudos - Alura Live #48 - YouTube </a></li>
@@ -107,8 +115,12 @@ Ao se inscreverem, os candidatos ganham acesso à plataforma do ONE por dois mes
 
 
 
-### Fase 3: Trilhas Obrigatórias
-Após a etapa anterior, os candidatos se tornam alunos do ONE e podem escolher entre as formações em Front-End ou Back-End para realizarem junto às de Soft Skills.
+### ONE | Fase 3 - Especialização Back-End
+
+#### ***Formações técnicas e Soft Skills***
+
+
+Aluno ONE Back-End com formação técnica junto com Soft Skills.
 
 
   <ul>
