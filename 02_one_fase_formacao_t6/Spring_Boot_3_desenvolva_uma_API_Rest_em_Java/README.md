@@ -25,6 +25,9 @@
 
 
 
+
+![Demostração](https://github.com/Oseiasdfarias/one_oracle_next_education/assets/52744236/9a771a32-417d-4b49-ba25-95c18e84b5d0)
+
 ### OBJETIVO
 
 Desenvolvendo uma API Rest com Java, Spring Boot 3, para isso foi usado as seguintes tecnologias, Lombok, flyway, MySql.
@@ -46,9 +49,6 @@ Etapas do desafio:
 3. Utilizado o Flyway como ferramenta de Migrations da API
 4. Realizado validações utilizando o Bean Validation
 5. Realizado paginação dos dados da API
-
-
-
 
 
 
