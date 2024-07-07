@@ -1,10 +1,12 @@
 <p align=center> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">  
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">  
+<img src="https://img.shields.io/badge/MySQL-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">  
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">  
 <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">  
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/flyway-8EB573.svg?style=for-the-badge&logo=flyway&logoColor=white">
+<img src="https://img.shields.io/badge/lombok-262425.svg?style=for-the-badge&logo=lumen&logoColor=white">  
 <img src="https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white">  
 
 <br>
@@ -49,17 +51,10 @@ Etapas do desafio:
 
 
 
-### Console rodando o projeto
+### Teste da API Rest usando o Insomnia
 
 <p align="center">
-  <img wigth="90%" src="./utils/banner_console.png">
-</p>
-
-
-### Consulta no Banco de Dados usando o DBeaver
-
-<p align="center">
-  <img wigth="90%" src="./utils/banner_banco_de_dados.png">
+  <img wigth="90%" src="./utils/banner_demostraca.png">
 </p>
 
 
@@ -70,7 +65,7 @@ Etapas do desafio:
 
 
 <p align="center">
-  <img width="70%" src="./utils/Spring_Boot_Challenge_LiterAlura.jpg">
+  <img width="70%" src="./utils/Certificado_Spring_Boot 3_desenvolva_uma_API_Rest_em_Java_Alura_page-0001.jpg">
 </p>
 
 
@@ -79,6 +74,6 @@ Etapas do desafio:
 <h3  id="id9">🎥 Rede Social</h3>
 
 <p align=center> <a href="https://oseiasfarias.info"><img src="https://img.shields.io/badge/Portfólio-%230077B5.svg?style=for-the-badge&logoColor=white"></a> <a href="https://www.linkedin.com/in/oseiasfarias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://oseiasfarias.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://www.kaggle.com/osiasdfarias"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="https://oseiasfarias.medium.com"><img src="https://img.shields.io/badge/Medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://www.kaggle.com/osiasdfarias"><img src="https://img.shields.io/badge/Kaggle-%230077B5.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
