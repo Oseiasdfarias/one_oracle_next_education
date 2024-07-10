@@ -46,10 +46,10 @@ public class MedicoController {
         return ResponseEntity.ok(page);
     }
 
-
     @PutMapping
     @Transactional
-    public ResponseEntity atualizarDadosMedico(@RequestBody @Valid DadosAtualizacaoMedico dados) {
+    public ResponseEntity atualizarDadosMedico(
+            @RequestBody @Valid DadosAtualizacaoMedico dados) {
         var medico = repository.getReferenceById(dados.id());
         medico.atualizarInformacoes(dados);
 
