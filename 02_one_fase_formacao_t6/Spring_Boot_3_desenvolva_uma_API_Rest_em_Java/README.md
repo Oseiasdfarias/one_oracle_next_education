@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/flyway-8EB573.svg?style=for-the-badge&logo=flyway&logoColor=white">
 <img src="https://img.shields.io/badge/lombok-262425.svg?style=for-the-badge&logo=lumen&logoColor=white">  
 <img src="https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=white">  
-<img src="https://img.shields.io/badge/jetbrains-2E303E.svg?style=for-the-badge&logo=jetbrains&logoColor=white"> 
 
 <br>
 </p>
