@@ -182,3 +182,22 @@ Aluno ONE Back-End com formação técnica junto com Soft Skills.
 ### Fase 4: AlumniONE
 E depois de formados, ainda podem fazer parte do AlumniONE, nossa comunidade de ex-alunos que oferece benefícios e mais de 200 horas de trilhas Oracle exclusivas.
 
+
+
+# Certificado
+
+
+
+<p align="center">
+  <img width="80%" src="./utils/Oséias Dias de Farias - Programa One.jpg">
+</p>
+
+
+---
+
+<h3  id="id9">🎥 Rede Social</h3>
+
+<p align=center> <a href="https://oseiasfarias.info"><img src="https://img.shields.io/badge/Portfólio-%230077B5.svg?style=for-the-badge&logoColor=white"></a> <a href="https://www.linkedin.com/in/oseiasfarias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://oseiasfarias.medium.com"><img src="https://img.shields.io/badge/Medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://www.kaggle.com/osiasdfarias"><img src="https://img.shields.io/badge/Kaggle-%230077B5.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+</p>
