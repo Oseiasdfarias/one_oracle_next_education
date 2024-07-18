@@ -201,6 +201,14 @@ Aluno ONE Back-End com formação técnica junto com Soft Skills.
 E depois de formados, ainda podem fazer parte do AlumniONE, nossa comunidade de ex-alunos que oferece benefícios e mais de 200 horas de trilhas Oracle exclusivas.
 
 
+### Badges Challenges
+
+<p align="center">
+  <img height="60" src="https://www.alura.com.br/assets/api/cursos/spring-framework-challenge-forum-hub.svg"> 
+  <img height="60" src="https://www.alura.com.br/assets/api/cursos/java-persistencia-dados-consultas-spring-data-jpa.svg">
+  <br>
+</p>
+
 
 # Certificado
 
