@@ -215,7 +215,7 @@ E depois de formados, ainda podem fazer parte do AlumniONE, nossa comunidade de 
 
 
 <p align="center">
-  <img width="80%" src="./utils/Oséias Dias de Farias - Programa One.jpg">
+  <img width="80%" src="./utils/certificado_ONE-Oracle_Next_Education_verso.jpg">
 </p>
 
 
